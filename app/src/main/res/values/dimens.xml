@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Textsizes for the different TextViews in list items. -->
+    <dimen name="title_text_size">14sp</dimen>
+    <dimen name="section_text_size">16sp</dimen>
+    <dimen name="date_text_size">10sp</dimen>
+    <dimen name="author_text_size">12sp</dimen>
+
+    <!-- Padding for the TextViews -->
+    <dimen name="padding_left_right">16dp</dimen>
+    <dimen name="padding_top_bottom">4dp</dimen>
+
+    <!-- Divider Height -->
+    <dimen name="divider_height">1dp</dimen>
+</resources>
